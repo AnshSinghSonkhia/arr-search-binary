@@ -1,0 +1,41 @@
+{
+  "name": "arr-search-binary",
+  "version": "1.0.0",
+  "description": "Efficient binary search utilities for sorted arrays, including variations like first & last occurrence, element count, and floor value search.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/arr-search-binary.git"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "search",
+    "sorted",
+    "array",
+    "first",
+    "occurrence",
+    "last",
+    "count",
+    "floor",
+    "value",
+    "data",
+    "structures",
+    "algorithms"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/arr-search-binary/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/arr-search-binary#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

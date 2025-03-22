@@ -1,0 +1,18 @@
+module.exports = {
+    binarySearch: require('./src/binarySearch'),
+    firstOccurrence: require('./src/firstOccurrence'),
+    lastOccurrence: require('./src/lastOccurrence'),
+    countOccurrences: require('./src/countOccurrences'),
+    floorValue: require('./src/floorValue'),
+    ceilValue: require('./src/ceilValue'),
+    searchInRotatedSortedArray: require('./src/searchInRotatedSortedArray'),
+    findRotationIndex: require('./src/findRotationIndex'),
+    minInRotatedSortedArray: require('./src/minInRotatedSortedArray'),
+    maxInRotatedSortedArray: require('./src/maxInRotatedSortedArray'),
+    findPeakElement: require('./src/findPeakElement'),
+    findMountainPeak: require('./src/findMountainPeak'),
+    searchInMountainArray: require('./src/searchInMountainArray'),
+    squareRoot: require('./src/squareRoot'),
+    nthRoot: require('./src/nthRoot'),
+    minInSortedRotatedDuplicates: require('./src/minInSortedRotatedDuplicates'),
+};
